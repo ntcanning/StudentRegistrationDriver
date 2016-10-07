@@ -5,4 +5,5 @@ jdk:
   
 build:
   ci:
+    - mvn clean cobertura:cobertura
     - mvn assembly:assembly
