@@ -6,4 +6,4 @@ jdk:
 build:
   ci:
     - mvn clean
-    - mvn assembly:assembly
+    - mvn install
