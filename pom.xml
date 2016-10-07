@@ -3,7 +3,7 @@
   <repositories>
   	<repository>
   		<id>dropbox-mvn-repo</id>
-  		<url>https://www.dropbox.com/sh/su70c767shilb86/AACiwXzIP-pqkSEDU2RNm7pba?dl=0</url>
+  		<url>http://dl.dropbox.com/sh/su70c767shilb86/AACiwXzIP-pqkSEDU2RNm7pba?dl=0</url>
   	</repository>
   </repositories>
   <groupId>ie.ntcanning</groupId>
@@ -16,11 +16,6 @@
   		<groupId>ie.ntcanning</groupId>
   		<artifactId>studentregistration</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>joda-time</groupId>
-  		<artifactId>joda-time</artifactId>
-  		<version>2.9.4</version>
   	</dependency>
   </dependencies>
 </project>
