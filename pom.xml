@@ -1,5 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  <repositories>
+  	<repository>
+  		<id>dropbox-mvn-repo</id>
+  		<name>Dropbox repo for Maven artifacts</name>
+  		<url>https://www.dropbox.com/sh/su70c767shilb86/AACiwXzIP-pqkSEDU2RNm7pba?dl=0</url>
+  	</repository>
+  </repositories>
   <groupId>ie.ntcanning</groupId>
   <artifactId>studentregistrationdriver</artifactId>
   <version>0.0.1-SNAPSHOT</version>
