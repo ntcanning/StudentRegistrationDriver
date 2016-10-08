@@ -3,7 +3,7 @@
   <repositories>
   	<repository>
   		<id>dropbox-mvn-repo</id>
-  		<url>http://dl.dropbox.com/sh/su70c767shilb86/AACiwXzIP-pqkSEDU2RNm7pba?dl=0</url>
+  		<url>http://dl.dropbox.com/sh/su70c767shilb86/AACiwXzIP-pqkSEDU2RNm7pba</url>
   	</repository>
   </repositories>
   <groupId>ie.ntcanning</groupId>
